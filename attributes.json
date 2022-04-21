@@ -19,7 +19,7 @@
 	"optional": true
 },
 "url": {
-	"longdesc": "The URL to the location of the passphrase"
+	"longdesc": "The URL to the location of the passphrase",
 	"title": "URL",
 	"optional": true
 }
