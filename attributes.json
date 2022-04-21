@@ -1,0 +1,26 @@
+{"privatekey": {
+	"longdesc": "The private key itself",
+	"title": "Private Key",
+	"optional": false
+},
+"creator": {
+	"longdesc": "Who uploaded the private key to the repository",
+	"title": "Creator",
+	"optional": false
+},
+"passphrase": {
+	"longdesc": "If used, the passphrase used for a SHA256sum hash",
+	"title": "Passphrase (SHA256)",
+	"optional": true
+},
+"passphrase_location": {
+	"longdesc": "Where the passphrase is from. i.e. a password dump",
+	"title": "Passphrase Location",
+	"optional": true
+},
+"url": {
+	"longdesc": "The URL to the location of the passphrase"
+	"title": "URL",
+	"optional": true
+}
+}
